@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\finalwork\program_code\bin\Debug\net6.0\program_code.exe
+C:\Users\User\Desktop\finalwork\program_code\bin\Debug\net6.0\program_code.deps.json
+C:\Users\User\Desktop\finalwork\program_code\bin\Debug\net6.0\program_code.runtimeconfig.json
+C:\Users\User\Desktop\finalwork\program_code\bin\Debug\net6.0\program_code.dll
+C:\Users\User\Desktop\finalwork\program_code\bin\Debug\net6.0\program_code.pdb
+C:\Users\User\Desktop\finalwork\program_code\obj\Debug\net6.0\program_code.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\finalwork\program_code\obj\Debug\net6.0\program_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\finalwork\program_code\obj\Debug\net6.0\program_code.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\finalwork\program_code\obj\Debug\net6.0\program_code.AssemblyInfo.cs
+C:\Users\User\Desktop\finalwork\program_code\obj\Debug\net6.0\program_code.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\finalwork\program_code\obj\Debug\net6.0\program_code.dll
+C:\Users\User\Desktop\finalwork\program_code\obj\Debug\net6.0\refint\program_code.dll
+C:\Users\User\Desktop\finalwork\program_code\obj\Debug\net6.0\program_code.pdb
+C:\Users\User\Desktop\finalwork\program_code\obj\Debug\net6.0\program_code.genruntimeconfig.cache
+C:\Users\User\Desktop\finalwork\program_code\obj\Debug\net6.0\ref\program_code.dll
